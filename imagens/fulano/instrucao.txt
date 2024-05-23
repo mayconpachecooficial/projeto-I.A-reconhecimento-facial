@@ -1,0 +1,27 @@
+Fique a vontade para treinar sua máquina na pasta escrito nome altere pelo nome da pessoa que vai inserir 
+as imagens dentro da pasta Exemplo:
+
+Pasta:
+ 
+imagens/
+    joao/
+        joao1.jpg
+        joao2.jpg
+        joao3.jpg
+
+    maria/
+        maria1.jpg
+        maria2.jpg
+        maria3.jpg
+    
+
+E por aí vai...
+
+
+Obrigado e bons estudos!
+
+The push operation includes a file which exceeds GitHub's file size restriction of 100MB. Please remove the file from history and try again.
+
+File causing error:
+
+venv/Lib/site-packages/jaxlib/xla_extension.pyd (117.08 MB
